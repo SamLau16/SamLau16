@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Sam Lau
 
+### 🌱 I’m currently learning Python, SQL, C programming, frontend, backend
+### 📫 How to reach me: samlau0001@gmail.com
 <!--
 **SamLau16/SamLau16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
